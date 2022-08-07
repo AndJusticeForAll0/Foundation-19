@@ -206,15 +206,15 @@ ut // COMMAND
 	minimal_player_age = 5
 	minimal_player_age = 9
 	ideal_character_age = 30
-	alt_titles = list("UIU Relations Agent" = /decl/hierarchy/outfit/job/site90/crew/civ/uiu)
+	alt_titles = list("UIU Relations Agent" = /decl/hierarchy/outfit/job/site90/crew/civ/uiu ,"Horizon Initiative Scribe" = /decl/hierarchy/outfit/job/thirep)
 	outfit_type = /decl/hierarchy/outfit/job/site90/crew/civ/gocrep
 	allowed_branches = list(
-		/datum/mil_branch/civilian
-	)
+		/datum/mil_branch/civilian)
+
 	allowed_ranks = list(
-		/datum/mil_rank/civ/classa
-	)
-	hud_icon = "hudgoi"
+		/datum/mil_rank/civ/classa)
+
+	hud_icon = ("hudgoi")
 
 	access = list(
 		access_com_comms,
