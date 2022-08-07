@@ -464,18 +464,3 @@ RADIATION_LOWER_LIMIT 0.15
 
 ## Uncomment and add an amount in days below for how many days it must have been since the client first connected to join
 #PANIC_BUNKER_AGE 1
-Moderator       +MOD
-TrialModerator  +MOD
-
-TrialAdmin      +@ +ADMIN +STEALTH +SPAWN +REJUV +VAREDIT +BAN +SERVER
-GameAdmin       +@ +DEBUG +FUN +POSSESS +BUILDMODE +SOUND +PERMISSIONS
-SeniorAdmin     +@
-
-HeadDeveloper   +EVERYTHING
-HeadAdmin       +EVERYTHING
-Host            +EVERYTHING
-
-Developer       +DEBUG +VAREDIT +SERVER +SPAWN +REJUV +POSSESS +BUILDMODE +ADMIN +FUN
-TrialDevAdmin   +DEBUG +VAREDIT +SERVER +SPAWN +REJUV +POSSESS +BUILDMODE +ADMIN +STEALTH +BAN +FUN
-DevAdmin        +DEBUG +VAREDIT +SERVER +SPAWN +REJUV +POSSESS +BUILDMODE +ADMIN +STEALTH +BAN +FUN +SOUND +PERMISSIONS
-FabledTyler - Host
