@@ -174,7 +174,7 @@ ut // COMMAND
 	minimal_player_age = 5
 	minimal_player_age = 9
 	ideal_character_age = 30
-	alt_titles = list("Ethics Committee Representative")
+	alt_titles = list("RAISA Agent")
 	outfit_type = /decl/hierarchy/outfit/job/site90/crew/civ/o5rep
 	allowed_branches = list(
 		/datum/mil_branch/civilian
